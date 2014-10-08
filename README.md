@@ -4,7 +4,7 @@
 
 Kilka przykładowych agregacji korzystających z danych
 [zipcodes](http://media.mongodb.org/zips.json) oraz
-[imieniny](data/wbzyl/imieniny.csv) opisano w [Aggregation Framework Examples](Aggregation_in_JS.md).
+[imieniny](data/wbzyl/imieniny.csv) opisano w [Aggregation Framework Examples](Aggregations_in_JS.md).
 
 ## Zaliczenie, *deadline* czwartek, 2014-11-20, 08:00:00 CEST
 
