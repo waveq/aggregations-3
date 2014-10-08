@@ -11,7 +11,7 @@ populations in the United States. These data are available at:
 
 ## Requirements
 
-* [MongoDB](http://www.mongodb.org/downloads), version 2.4.1 or later.
+* [MongoDB](http://www.mongodb.org/downloads), version 2.6.4 or later.
 
 Use the following command to load *zips.json* data set into
 **your** *mongod* instance:
@@ -19,16 +19,6 @@ Use the following command to load *zips.json* data set into
 ```sh
 mongoimport --drop -d test -c zipcodes zips.json
 ```
-
-or use the *zipcodes* collection from here:
-
-```sh
-mongo --username student --password sesja2013 153.19.1.202/test
-```
-
-**Note:** The *student* user is given only the **read** privileges
-in the *test* database.
-
 
 ## Aggregations using the Zip Codes Data Set
 
