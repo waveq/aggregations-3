@@ -65,7 +65,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Zdunek, Kamil
 
 
-## Egzamin, *deadline* czwartek, 2015-01-08, 08:00:00 CEST
+### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
 
 **TODO**
 
