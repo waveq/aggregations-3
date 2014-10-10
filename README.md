@@ -1,4 +1,4 @@
-# Agregacje 2
+# Agregacje 3
 
 ![Data Wranglers](images/data-wrangler.jpg)
 
