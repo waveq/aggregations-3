@@ -1,5 +1,19 @@
-{"_id":"oakland","type":"Point","coordinates":[-122.270833,37.804444]}
-{"_id":"augsburg","type":"Point","coordinates":[10.898333,48.371667]}
-{"_id":"namibia","type":"Point","coordinates":[17.15,-22.566667]}
-{"_id":"australia","type":"Point","coordinates":[135,-25]}
-{"_id":"brasilia","type":"Point","coordinates":[-52.95,-10.65]}
+{"type": "FeatureCollection",
+ "features": [
+   { "type": "Feature",
+     "geometry": {"_id":"oakland","type":"Point","coordinates":[-122.270833,37.804444]}
+   },
+   { "type": "Feature",
+     "geometry": {"_id":"augsburg","type":"Point","coordinates":[10.898333,48.371667]}
+   },
+   { "type": "Feature",
+     "geometry": {"_id":"namibia","type":"Point","coordinates":[17.15,-22.566667]}
+   },
+   { "type": "Feature",
+     "geometry": {"_id":"australia","type":"Point","coordinates":[135,-25]}
+   },
+   { "type": "Feature",
+     "geometry": {"_id":"brasilia","type":"Point","coordinates":[-52.95,-10.65]}
+   }
+ ]
+}
