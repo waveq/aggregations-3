@@ -2,9 +2,6 @@
 
 ![Data Wranglers](images/data-wrangler.jpg)
 
-[14.10.2014] – *Wykład w czwartek 16.10 odbędzie się
-w auli 3 o godz. 10.15.**
-
 Kilka przykładowych agregacji korzystających z danych
 [zipcodes](http://media.mongodb.org/zips.json) oraz
 [imieniny](data/wbzyl/imieniny.csv) opisano w [Aggregation Framework Examples](Aggregations_in_JS.md).
