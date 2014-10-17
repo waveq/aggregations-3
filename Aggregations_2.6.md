@@ -57,11 +57,11 @@ cursor.forEach(function(d) {
 
 Cursor methods:
 
-* `.toArray()` - iterates through docs and returns an array of the results
+* `.toArray()` – iterates through docs and returns an array of the results
 * `.forEach( func )`
 * `.map( func )`
 * `.hasNext()`
 * `.next()`
-* `.objsLeftInBatch()` - returns count of docs left in current batch
+* `.objsLeftInBatch()` – returns count of docs left in current batch
   (when exhausted, a new getMore will be issued)
-* `.itcount()` - iterates through documents and counts them
+* `.itcount()` – iterates through documents and counts them
