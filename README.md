@@ -70,7 +70,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
 
-**TODO**
+Przykłady z MapReduce lub agregacji w Elasticsearch.
 
 
 ## Simple Rules for Reproducible Computations
