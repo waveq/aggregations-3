@@ -78,8 +78,7 @@ The above aggregation pipeline is build from two pipeline operators:
 
 The `$group` pipeline operator requires `_id` field where we specify
 grouping; remaining fields specify how to generate composite value and
-must use one of
-[the group aggregation functions](http://docs.mongodb.org/manual/reference/aggregation/#group-operators):
+must use one of [the accumulators](http://docs.mongodb.org/manual/reference/operator/aggregation/#accumulators):
 `$addToSet`, `$first`, `$last`, `$max`, `$min`, `$avg`, `$push`, `$sum`.
 The `$match` pipeline operator syntax is the same as
 the [read operation](http://docs.mongodb.org/manual/core/read-operations/)
