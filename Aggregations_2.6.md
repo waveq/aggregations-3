@@ -11,8 +11,10 @@
 1. `$sort` - sort documents
 1. `$geoNear` – select documents near a geospacial location
 1. `$out` – write the results of the pipeline to a collection (new in 2.6)
+1. `$redact` – incorporates the functionality of `$project` and `$match` (?)
 
-[Expression operators](http://docs.mongodb.org/manual/reference/operator/aggregation/#expression-operators)
+See also [expression operators](http://docs.mongodb.org/manual/reference/operator/aggregation/#expression-operators).
+
 
 ### Zipcodes data set
 
