@@ -30,9 +30,11 @@ Each document has the following form:
 }
 ```
 
-#### Get states with a population over 10 million
+### Aggregation cursors 
 
-Aggregation cursors are not available within *mongo* shell:
+Note, that aggregation cursors are not available within *mongo* shell.
+
+*Example*: Get states with a population over 10 million.
 
 ```js
 // cursor.js
