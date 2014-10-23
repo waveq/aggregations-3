@@ -237,12 +237,6 @@ Use *mongoimport* to import this data set into MongoDB:
 mongoimport --drop --db test --collection cal name_days.json
 ```
 
-or use the *cal* collection from here:
-
-```sh
-mongo --username student --password sesja2013 153.19.1.202/test
-```
-
 The collection *cal*  should contain 364 documents
 in the following format:
 
