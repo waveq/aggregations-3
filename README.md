@@ -55,7 +55,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Piotrkowski, Łukasz
 1. Rękawek, Szymon
 1. Sałata, Jakub
-1. Sarzyńska, Magdalena
+1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG)
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL)
 1. Skałkowski, Michał
 1. Soliński, Damian
