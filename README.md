@@ -13,8 +13,8 @@ Należy przygotować rozwiązania
 
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
-    1. [Nazwisko, Imię](link do **prywatnego** repozytorium z rozwiązaniem zadania 1 na GitHub).
-       [Tytuł](link do **prywatnego** repozytorium z rozwiązaniem zadania 2 na GitHub),
+    1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
+       [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub),
 
 1. Acewicz-Hepfner, Patryk
 1. Banecka, Kamila
