@@ -8,10 +8,13 @@ Kilka przykładowych agregacji korzystających z danych
 
 ### Zaliczenie, *deadline* czwartek, 2014-11-20, 08:00 CEST
 
+Należy przygotować rozwiązania
+[zadań 1 i 2](http://wbzyl.inf.ug.edu.pl/nosql/zadania).
+
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
-    1. [Nazwisko, Imię](link do repozytorium z rozwiązaniem zadania 1 na GitHub).
-       [Tytuł](link do repozytorium z rozwiązaniem zadania 2 na GitHub),
+    1. [Nazwisko, Imię](link do **prywatnego** repozytorium z rozwiązaniem zadania 1 na GitHub).
+       [Tytuł](link do **prywatnego** repozytorium z rozwiązaniem zadania 2 na GitHub),
 
 1. Acewicz-Hepfner, Patryk
 1. Banecka, Kamila
@@ -70,7 +73,12 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
 
-Przykłady z MapReduce lub agregacji w Elasticsearch.
+Należy przygotować rozwiązania do
+[zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
+(można zaproponować inne dane i swoje funkcje map i reduce).
+
+Albo przygotować przykłady z *faceted search*
+lub agregacji w Elasticsearch.
 
 
 ## Simple Rules for Reproducible Computations
