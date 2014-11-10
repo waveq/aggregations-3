@@ -45,7 +45,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kulas, Piotr
 1. Kuźnik, Mateusz
 1. Kwiatkowski, Dominik
-1. Lamkiewicz, Krzysztof
+1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql)
 1. Latoszewski, Adam
 1. Latoszewski, Krzysztof
 1. Ławicki, Patryk
