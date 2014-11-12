@@ -31,7 +31,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Ekiert, Łukasz
 1. Gałka, Łukasz
 1. Grycko, Marcin
-1. Horoszko, Marcin
+1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md)
 1. Janowski, Arkadiusz
 1. Józwiak, Roman
 1. Kamiński, Jakub
