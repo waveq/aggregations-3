@@ -46,7 +46,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kuźnik, Mateusz
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql)
-1. Latoszewski, Adam
+1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md)[zadanie2](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
 1. Latoszewski, Krzysztof
 1. Ławicki, Patryk
 1. Makulec, Krzysztof
