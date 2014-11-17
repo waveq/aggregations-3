@@ -20,7 +20,7 @@ Należy przygotować rozwiązania [zadań 1 i 2](http://wbzyl.inf.ug.edu.pl/no
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
-       [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub),
+       [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
 1. Acewicz-Hepfner, Patryk
 1. Banecka, Kamila
