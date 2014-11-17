@@ -87,7 +87,7 @@ Albo przygotować przykłady z *faceted search* lub agregacji w Elasticsearch.
 Można też przygotować rozwiązanie w zespole 2–3 osobowy.
 W takim przypadku należy podłączyć *mongod* do
 [MMS](https://mms.mongodb.com) i dodać raport z monitoringu.
-(Po podłączeniu należy, w opcjach, włączyć profilowanie.)
+(Po podłączeniu w opcjach należy włączyć profilowanie.)
 
 
 TODO: lista + lista zespołów.
