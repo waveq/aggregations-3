@@ -7,7 +7,7 @@ Sposób 1, sugerowany przez GitHub Team:
 
 ```sh
 git checkout -b miotla007-master master
-git pull git://github.com/miotla007/aggregations-2.git master
+git pull git://github.com/miotla007/aggregations-3.git master
 git checkout master
 git merge miotla007-master
 git push origin master
@@ -34,7 +34,7 @@ Dużym plusem tego sposobu jest brak commita z mergem
 Sposób 3:
 
 ```sh
-git remote add miotla007 git://github.com/miotla007/aggregations-2.git
+git remote add miotla007 git://github.com/miotla007/aggregations-3.git
 git fetch miotla007
 git merge miotla007/master
   .. edycja .. rozwiązywanie konfliktów
