@@ -12,6 +12,7 @@ Kilka przykładowych agregacji korzystających z danych
 Dlatego do tabelek w zadaniach 1a, 1c, 2 dodać wiersze dla tej (lub późniejszej) wersji MongoDB.
 W wynikach uwzględnić *storageEngines*
 [MMAP](http://docs.mongodb.org/manual/faq/storage/)
+([Understanding MongoDB Storage](http://www.polyspot.com/en/blog/2012/understanding-mongodb-storage/))
 i [WiredTiger](http://www.wiredtiger.com/).
 
 Należy przygotować rozwiązania [zadań 1 i 2](http://wbzyl.inf.ug.edu.pl/nosql/zadania).
@@ -82,8 +83,16 @@ Należy przygotować rozwiązania do
 [zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
 (można zaproponować inne dane i inne funkcje map i reduce).
 
-Albo przygotować przykłady z *faceted search*
-lub agregacji w Elasticsearch.
+Albo przygotować przykłady z *faceted search* lub agregacji w Elasticsearch.
+
+Można też przygotować rozwiązanie w zespole 2–3 osobowy.
+W takim przypadku należy podłączyć *mongod* do
+[MMS](https://mms.mongodb.com) i dodać raport z monitoringu.
+(Po podłączeniu należy, w opcjach, włączyć profilowanie.)
+
+
+TODO: lista + lista zespołów.
+
 
 
 ## Simple Rules for Reproducible Computations
