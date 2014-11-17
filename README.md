@@ -135,3 +135,4 @@ Dane pochodzą z lat 2007–2012 – tylko filmy i przedstawienia TV.
 Przykładowe aggregacje: ilu jest różnych użytkowników
 w danych? jakie jest 10 najpopularniejszych filmów i przedstawień TV?
 ile jest różnych akcji?
+1. [GeoNames](http://www.geonames.org/export/) i [Postal Codes](http://www.geonames.org/postal-codes/).
