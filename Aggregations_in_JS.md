@@ -1,4 +1,4 @@
-## Aggregation Framework Examples (MongoDB, Javascript)
+## Aggregation Pipeline Examples (MongoDB, Javascript)
 
 This document provides a number of practical examples that display the
 capabilities of the aggregation framework.

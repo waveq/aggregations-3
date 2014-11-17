@@ -4,14 +4,17 @@
 
 Kilka przykładowych agregacji korzystających z danych
 [zipcodes](http://media.mongodb.org/zips.json) oraz
-[imieniny](data/wbzyl/imieniny.csv) opisano w [Aggregation Framework Examples](Aggregations_in_JS.md).
+[imieniny](data/wbzyl/imieniny.csv) opisano w [Aggregation Pipeline Examples](Aggregations_in_JS.md).
 
 ### Zaliczenie, *deadline* czwartek, 2014-11-20, 08:00 CEST
 
+Należy przygotować rozwiązania
+[zadań 1 i 2](http://wbzyl.inf.ug.edu.pl/nosql/zadania).
+
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
-    1. [Nazwisko, Imię](link do repozytorium z rozwiązaniem zadania 1 na GitHub).
-       [Tytuł](link do repozytorium z rozwiązaniem zadania 2 na GitHub),
+    1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
+       [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub),
 
 1. Acewicz-Hepfner, Patryk
 1. Banecka, Kamila
@@ -21,29 +24,29 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Bławat, Adam
 1. Bonczkowska, Magdalena
 1. Borkowski, Maciej
-1. Cimoch, Jarosław
-1. Czechowicz, Kacper
+1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs)
+1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne)
 1. Dargacz, Mateusz
-1. Drozdowski, Adrian
+1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md).[GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md)
 1. Ekiert, Łukasz
 1. Gałka, Łukasz
 1. Grycko, Marcin
-1. Horoszko, Marcin
+1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md) [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md)
 1. Janowski, Arkadiusz
 1. Józwiak, Roman
 1. Kamiński, Jakub
-1. Karolczak, Jakub
+1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md)
 1. Kąkol, Jan
 1. Kłeczek, Piotr
 1. Komorowski, Szymon
 1. Koźmiński, Marcin
 1. Kożuch, Adam
-1. Kucharski, Maciej
+1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
 1. Kulas, Piotr
 1. Kuźnik, Mateusz
-1. Kwiatkowski, Dominik
-1. Lamkiewicz, Krzysztof
-1. Latoszewski, Adam
+1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md)
+1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql)
+1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md)[zadanie2](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
 1. Latoszewski, Krzysztof
 1. Ławicki, Patryk
 1. Makulec, Krzysztof
@@ -55,7 +58,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Piotrkowski, Łukasz
 1. Rękawek, Szymon
 1. Sałata, Jakub
-1. Sarzyńska, Magdalena
+1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md).[Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md),
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL)
 1. Skałkowski, Michał
 1. Soliński, Damian
@@ -70,7 +73,12 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
 
-Przykłady z MapReduce lub agregacji w Elasticsearch.
+Należy przygotować rozwiązania do
+[zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
+(można zaproponować inne dane i inne funkcje map i reduce).
+
+Albo przygotować przykłady z *faceted search*
+lub agregacji w Elasticsearch.
 
 
 ## Simple Rules for Reproducible Computations
