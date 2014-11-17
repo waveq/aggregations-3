@@ -41,7 +41,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Komorowski, Szymon
 1. Koźmiński, Marcin
 1. Kożuch, Adam
-1. Kucharski, Maciej
+1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
 1. Kulas, Piotr
 1. Kuźnik, Mateusz
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md)
