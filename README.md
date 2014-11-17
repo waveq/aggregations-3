@@ -82,7 +82,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 Należy przygotować rozwiązania do
 [zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
 (można zaproponować inne dane i inne funkcje map i reduce).
-
 Albo przygotować przykłady z *faceted search* lub agregacji w Elasticsearch.
 
 Można też przygotować rozwiązanie w zespole 2–3 osobowy.
