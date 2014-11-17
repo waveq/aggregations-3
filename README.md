@@ -8,8 +8,13 @@ Kilka przykładowych agregacji korzystających z danych
 
 ### Zaliczenie, *deadline* czwartek, 2014-11-20, 08:00 CEST
 
-Należy przygotować rozwiązania
-[zadań 1 i 2](http://wbzyl.inf.ug.edu.pl/nosql/zadania).
+**[16.11.2014]** 12.11. pojawiła się wersja [2.8.0-rc0](http://docs.mongodb.org/manual/release-notes/2.8/).
+Dlatego do tabelek w zadaniach 1a, 1c, 2 dodać wiersze dla tej (lub późniejszej) wersji MongoDB.
+W wynikach uwzględnić *storageEngines*
+[MMAP](http://docs.mongodb.org/manual/faq/storage/)
+i [WiredTiger](http://www.wiredtiger.com/).
+
+Należy przygotować rozwiązania [zadań 1 i 2](http://wbzyl.inf.ug.edu.pl/nosql/zadania).
 
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
@@ -27,11 +32,11 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs)
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne)
 1. Dargacz, Mateusz
-1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md).[GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md)
+1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md)
 1. Ekiert, Łukasz
 1. Gałka, Łukasz
 1. Grycko, Marcin
-1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md) [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md)
+1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md). [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md)
 1. Janowski, Arkadiusz
 1. Józwiak, Roman
 1. Kamiński, Jakub
@@ -46,7 +51,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kuźnik, Mateusz
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql)
-1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md)[zadanie2](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
+1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [???](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
 1. Latoszewski, Krzysztof
 1. Ławicki, Patryk
 1. Makulec, Krzysztof
@@ -58,7 +63,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Piotrkowski, Łukasz
 1. Rękawek, Szymon
 1. Sałata, Jakub
-1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md).[Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md),
+1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md),
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL)
 1. Skałkowski, Michał
 1. Soliński, Damian
