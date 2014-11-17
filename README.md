@@ -41,7 +41,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Janowski, Arkadiusz
 1. Józwiak, Roman
 1. Kamiński, Jakub
-1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md)
+1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md)
 1. Kąkol, Jan
 1. Kłeczek, Piotr
 1. Komorowski, Szymon
