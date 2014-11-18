@@ -60,7 +60,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Miś, Maciej
 1. Nowak, Wojciech
 1. Nowicki, Jakub
-1. Ossowski, Marcin
+1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md).
 1. Piotrkowski, Łukasz
 1. Rękawek, Szymon
 1. Sałata, Jakub
