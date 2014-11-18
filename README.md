@@ -39,7 +39,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Grycko, Marcin
 1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md). [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md)
 1. Janowski, Arkadiusz
-1. Józwiak, Roman
+1. [Józwiak, Roman](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise1.md). [Majestic](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise2.md)
 1. Kamiński, Jakub
 1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md)
 1. Kąkol, Jan
