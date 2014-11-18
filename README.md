@@ -71,7 +71,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Synowczyk, Piotr
 1. Szklarska, Milena
 1. Szymanek, Tomasz
-1. Wittbrodt, Łukasz
+1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql).[Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
 1. Zakrzewski, Patryk
 1. Zalewski, Marcin
 1. Zdunek, Kamil
