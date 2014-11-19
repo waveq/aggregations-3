@@ -22,8 +22,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
-1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md),
-[Zad2](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md)
+1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [???](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md)
 1. Banecka, Kamila
 1. Banecki, Daniel
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/nosql_lab). [AllFlights](https://github.com/mbednarczyk/nosql_lab/tree/master/ex2)
@@ -51,7 +50,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
 1. Kulas, Piotr
 1. Kuźnik, Mateusz
-1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md)[GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md)
+1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md). [GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql)
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [???](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
 1. [Latoszewski, Krzysztof] (https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
@@ -72,7 +71,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql)
 1. Szklarska, Milena
 1. Szymanek, Tomasz
-1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql).[Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
+1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
 1. Zakrzewski, Patryk
 1. Zalewski, Marcin
 1. Zdunek, Kamil
