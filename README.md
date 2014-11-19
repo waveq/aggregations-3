@@ -57,7 +57,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo)
 1. Makulec, Krzysztof
 1. Miotk, Mateusz
-1. Miś, Maciej
+1. [Miś, Maciej](https://github.com/MacMisDev/nosql)
 1. Nowak, Wojciech
 1. Nowicki, Jakub
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md).
