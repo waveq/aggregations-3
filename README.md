@@ -68,7 +68,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL)
 1. Skałkowski, Michał
 1. Soliński, Damian
-1. Synowczyk, Piotr
+1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql)
 1. Szklarska, Milena
 1. Szymanek, Tomasz
 1. Wittbrodt, Łukasz
