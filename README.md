@@ -29,7 +29,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Bieliński, Marcin
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. Bonczkowska, Magdalena
-1. Borkowski, Maciej
+1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue)
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs)
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo)
 1. Dargacz, Mateusz
