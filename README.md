@@ -54,7 +54,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql)
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [???](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
 1. [Latoszewski, Krzysztof] (https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
-1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo)
+1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations)
 1. Makulec, Krzysztof
 1. Miotk, Mateusz
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql)
