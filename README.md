@@ -49,7 +49,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kożuch, Adam
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
 1. Kulas, Piotr
-1. Kuźnik, Mateusz
+1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQL1/blob/master/zadanie1.md). [GetGlue](https://github.com/Misiek92/NoSQL1/blob/master/zadanie2.md)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md). [GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql)
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [???](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
