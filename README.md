@@ -66,7 +66,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Sałata, Jakub
 1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL)
-1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql)
+1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql).[flights](https://github.com/Michaldwadwa/nosql2)
 1. Soliński, Damian
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql)
 1. Szklarska, Milena
