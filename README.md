@@ -58,7 +58,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Makulec, Krzysztof
 1. [Miotk, Mateusz](https://github.com/miotek32/NoSQL).[Sentencje angielskie](https://github.com/miotek32/NoSQL---Exercise2)
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql)
-1. Nowak, Wojciech
+1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3)[Crimes](https://github.com/YoungCoder/agregacje3)
 1. Nowicki, Jakub
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md). [GetGlue](https://github.com/mossowski/NoSQL-lab/blob/master/zad2.md)
 1. Piotrkowski, Łukasz
