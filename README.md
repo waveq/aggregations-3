@@ -22,7 +22,8 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
-1. Acewicz-Hepfner, Patryk
+1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md),
+[Zad2](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md)
 1. Banecka, Kamila
 1. Banecki, Daniel
 1. Bednarczyk, Marek
