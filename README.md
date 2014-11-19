@@ -32,7 +32,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue)
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs)
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo)
-1. Dargacz, Mateusz
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSQL-aggregation). [word-list](https://github.com/mateuszdargacz/nosql_aggregation_2)
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md)
 1. Ekiert, Łukasz
 1. Gałka, Łukasz
