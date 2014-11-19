@@ -72,7 +72,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Szklarska, Milena
 1. Szymanek, Tomasz
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
-1. Zakrzewski, Patryk
+1. [Zakrzewski, Patryk](https://github.com/zakrzes/Technologie-NoSQL). [IMDB](https://github.com/zakrzes/Technologie-NoSQL/blob/master/Zadanie%202.md)
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md)
 1. Zdunek, Kamil
 
