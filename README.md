@@ -27,7 +27,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Banecki, Daniel
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/nosql_lab). [AllFlights](https://github.com/mbednarczyk/nosql_lab/tree/master/ex2)
 1. Bieliński, Marcin
-1. Bławat, Adam
+1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. Bonczkowska, Magdalena
 1. Borkowski, Maciej
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs)
