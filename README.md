@@ -49,7 +49,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Nowak, Wojciech
 1. Ossowski, Marcin
 1. Piotrkowski, Łukasz
-1. Rękawek, Szymon
+1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md)
 1. Sałata, Jakub
 1. Sarzyńska, Magdalena
 1. Sienkiewicz, Daniel
