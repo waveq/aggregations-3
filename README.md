@@ -60,7 +60,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql)
 1. Nowak, Wojciech
 1. Nowicki, Jakub
-1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md).
+1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md). [GetGlue](https://github.com/mossowski/NoSQL-lab/blob/master/zad2.md) 
 1. Piotrkowski, Łukasz
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md)
 1. Sałata, Jakub
