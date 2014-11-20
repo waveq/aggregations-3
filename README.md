@@ -68,7 +68,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL) [Loty](https://github.com/henio180/NoSQL2)
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql).[flights](https://github.com/Michaldwadwa/nosql2)
 1. Soliński, Damian
-1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql)
+1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql).[GetGlue](https://github.com/psynowczyk/tnosql2)
 1. Szklarska, Milena
 1. Szymanek, Tomasz
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
