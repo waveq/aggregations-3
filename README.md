@@ -34,7 +34,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo)
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSQL-aggregation). [word-list](https://github.com/mateuszdargacz/nosql_aggregation_2)
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md)
-1. Ekiert, Łukasz
+1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md)
 1. Gałka, Łukasz
 1. Grycko, Marcin
 1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md). [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md)
