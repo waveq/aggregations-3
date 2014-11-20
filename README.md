@@ -44,7 +44,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md)
 1. [Kąkol, Jan](https://bitbucket.org/Jankkol/nosqlzad1). [WordpressLikes](https://bitbucket.org/Jankkol/nosqlzad2)
 1. Kłeczek, Piotr
-1. Komorowski, Szymon (https://github.com/szykom/nosql)
+1. [Komorowski, Szymon](https://github.com/szykom/nosql)
 1. Koźmiński, Marcin
 1. Kożuch, Adam
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
@@ -56,7 +56,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Latoszewski, Krzysztof] (https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations)
 1. Makulec, Krzysztof
-1. [Miotk, Mateusz](https://github.com/miotek32/NoSQL).[Sentencje angielskie](https://github.com/miotek32/NoSQL---Exercise2)
+1. [Miotk, Mateusz](https://github.com/miotek32/NoSQL). [Sentencje angielskie](https://github.com/miotek32/NoSQL---Exercise2)
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql)
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3). [Crimes](https://github.com/YoungCoder/agregacje3)
 1. Nowicki, Jakub
@@ -65,8 +65,8 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md)
 1. Sałata, Jakub
 1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
-1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL) [Loty](https://github.com/henio180/NoSQL2)
-1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql).[flights](https://github.com/Michaldwadwa/nosql2)
+1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL). [Loty](https://github.com/henio180/NoSQL2)
+1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql).[Flights](https://github.com/Michaldwadwa/nosql2)
 1. Soliński, Damian
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql).[GetGlue](https://github.com/psynowczyk/tnosql2)
 1. Szklarska, Milena
