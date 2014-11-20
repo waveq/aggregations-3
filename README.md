@@ -44,7 +44,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md)
 1. [Kąkol, Jan](https://bitbucket.org/Jankkol/nosqlzad1). [WordpressLikes](https://bitbucket.org/Jankkol/nosqlzad2)
 1. Kłeczek, Piotr
-1. Komorowski, Szymon
+1. Komorowski, Szymon (https://github.com/szykom/nosql)
 1. Koźmiński, Marcin
 1. Kożuch, Adam
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
