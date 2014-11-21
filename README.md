@@ -46,7 +46,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kłeczek, Piotr
 1. [Komorowski, Szymon](https://github.com/szykom/nosql)
 1. Koźmiński, Marcin
-1. Kożuch, Adam
+1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master)
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
 1. [Kulas, Piotr](https://github.com/pkulas/nosql/blob/master/zadanie1.md). [The Internet Movie Database](https://github.com/pkulas/nosql/blob/master/zadanie2.md)
 1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQL1/blob/master/zadanie1.md). [GetGlue](https://github.com/Misiek92/NoSQL1/blob/master/zadanie2.md)
