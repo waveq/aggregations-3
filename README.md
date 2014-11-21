@@ -61,7 +61,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3). [Crimes](https://github.com/YoungCoder/agregacje3)
 1. Nowicki, Jakub
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md). [GetGlue](https://github.com/mossowski/NoSQL-lab/blob/master/zad2.md)
-1. Piotrkowski, Łukasz
+1. [Piotrkowski, Łukasz](https://bitbucket.org/lpiotrkowski/mongo). [Mongo](https://bitbucket.org/lpiotrkowski/mongo/src/326b0f3f1458769947469054b30384e10a279e98/zadanie2/?at=master)
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md)
 1. Sałata, Jakub
 1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
