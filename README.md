@@ -60,9 +60,59 @@ W takim przypadku należy podłączyć *mongod* do
 [MMS](https://mms.mongodb.com) i dodać raport z monitoringu.
 (Po podłączeniu w opcjach należy włączyć profilowanie.)
 
-
-TODO: lista + lista zespołów.
-
+1. Acewicz-Hepfner, Patryk
+1. Banecka, Kamila
+1. Banecki, Daniel
+1. Bednarczyk, Marek
+1. Bieliński, Marcin
+1. Bławat, Adam
+1. Bonczkowska, Magdalena
+1. Borkowski, Maciej
+1. Cimoch, Jarosław
+1. Czechowicz, Kacper
+1. Dargacz, Mateusz
+1. Drozdowski, Adrian
+1. Ekiert, Łukasz
+1. Gałka, Łukasz
+1. Grycko, Marcin
+1. Horoszko, Marcin
+1. Janowski, Arkadiusz
+1. Józwiak, Roman
+1. Kamiński, Jakub
+1. Karolczak, Jakub
+1. Kąkol, Jan
+1. Kłeczek, Piotr
+1. Komorowski, Szymon
+1. Koźmiński, Marcin
+1. Kożuch, Adam
+1. Kucharski, Maciej
+1. Kulas, Piotr
+1. Kuźnik, Mateusz
+1. Kwiatkowski, Dominik
+1. Lamkiewicz, Krzysztof
+1. Latoszewski, Adam
+1. Latoszewski, Krzysztof
+1. Ławicki, Patryk
+1. Makulec, Krzysztof
+1. Miotk, Mateusz
+1. Miś, Maciej
+1. Nowak, Wojciech
+1. Nowicki, Jakub
+1. Ossowski, Marcin
+1. Piotrkowski, Łukasz
+1. Rękawek, Szymon
+1. Sałata, Jakub
+1. Sarzyńska, Magdalena
+1. Sienkiewicz, Daniel
+1. Skałkowski, Michał
+1. Soliński, Damian
+1. Synowczyk, Piotr
+1. Szklarska, Milena
+1. Szymanek, Tomasz
+1. Wittbrodt, Łukasz
+1. Zakrzewski, Patryk
+1. Zalewski, Marcin
+1. Zdunek, Kamil
 
 
 ## Simple Rules for Reproducible Computations
