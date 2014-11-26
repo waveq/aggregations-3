@@ -24,6 +24,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql)
+1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN)
 
 ### Niezaliczone laboratorium
 
@@ -37,7 +38,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kłeczek, Piotr
 1. Koźmiński, Marcin
 1. Makulec, Krzysztof
-1. Nowicki, Jakub
 1. Sałata, Jakub
 1. Soliński, Damian
 1. Szklarska, Milena
