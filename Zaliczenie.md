@@ -4,6 +4,7 @@
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/nosql_lab). [AllFlights](https://github.com/mbednarczyk/nosql_lab/tree/master/ex2)
 1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/Zadanie2.md)
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue)
+1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs). [Loty](https://github.com/jcimoch/noSQL-labs#zad-2)
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo)
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSQL-aggregation). [WordList](https://github.com/mateuszdargacz/nosql_aggregation_2)
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md)

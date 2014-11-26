@@ -23,7 +23,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
-1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs). [Loty](https://github.com/jcimoch/noSQL-labs#zad-2)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql)
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql)
 
