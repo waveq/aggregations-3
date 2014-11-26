@@ -23,6 +23,7 @@
 1. [Latoszewski, Krzysztof] (https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations)
 1. [Miotk, Mateusz](https://github.com/miotek32/NoSQL). [Sentencje angielskie](https://github.com/miotek32/NoSQL---Exercise2)
+1. [Miś, Maciej](https://github.com/MacMisDev/nosql). [Chicago Crimes](https://github.com/MacMisDev/nosql)
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3). [Crimes](https://github.com/YoungCoder/agregacje3)
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md). [GetGlue](https://github.com/mossowski/NoSQL-lab/blob/master/zad2.md)
 1. [Piotrkowski, Łukasz](https://bitbucket.org/lpiotrkowski/mongo). [Mongo](https://bitbucket.org/lpiotrkowski/mongo/src/326b0f3f1458769947469054b30384e10a279e98/zadanie2/?at=master)
