@@ -22,7 +22,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
-1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [???](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md)
+1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [NYCrimes](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md)
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql)
