@@ -141,7 +141,7 @@ And two more rules:
 1. Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędzia
 [Table of Contents Preprocessor](https://github.com/aslushnikov/table-of-contents-preprocessor).
 1. Scott Chacon, Ben Straub. [Pro Git](http://git-scm.com/book/en/v2)
-  - [6.1 GitHub – Account Setup and Configuration](http://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+  - [6.2 GitHub – Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 
 
 ## Big Collections
