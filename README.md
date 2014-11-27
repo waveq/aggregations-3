@@ -22,6 +22,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
+1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql)
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql)
 1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN)
@@ -29,7 +30,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 ### Niezaliczone laboratorium
 
 1. Banecka, Kamila
-1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql)
 1. Bieliński, Marcin
 1. Gałka, Łukasz
 1. Grycko, Marcin
