@@ -28,7 +28,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 ### Niezaliczone laboratorium
 
 1. Banecka, Kamila
-1. Banecki, Daniel
+1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql)
 1. Bieliński, Marcin
 1. Gałka, Łukasz
 1. Grycko, Marcin
