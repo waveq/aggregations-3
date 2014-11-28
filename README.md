@@ -57,7 +57,7 @@ Na początek należy się przyjrzeć narzędziu
 o [wtyczkach](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-plugins.html)
 a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-aggregations.html).
 
-**Uwaga:* Większe zadania, można przygotować w zespole 2–3 osobowym.
+*Uwaga:* Większe zadania, można przygotować w zespole 2–3 osobowym.
 
 1. Acewicz-Hepfner, Patryk
 1. Banecka, Kamila
