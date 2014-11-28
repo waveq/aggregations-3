@@ -47,7 +47,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
 
-Należy przygotować rozwiązania [Zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
+Należy przygotować rozwiązanie [Zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
 (można użyć innych danych i napisać swoje map-reduce).
 
 Zamiast bazy MongoDB, można przygotować przykłady lub wtyczki lub agregacje
