@@ -47,15 +47,17 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
 
-Należy przygotować rozwiązania do
-[zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
-(można zaproponować inne dane i inne funkcje map i reduce).
-Albo przygotować przykłady z *faceted search* lub agregacji w Elasticsearch.
+Należy przygotować rozwiązania [Zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
+(można użyć innych danych i napisać swoje map-reduce).
 
-Można też przygotować rozwiązanie w zespole 2–3 osobowy.
-W takim przypadku należy podłączyć *mongod* do
-[MMS](https://mms.mongodb.com) i dodać raport z monitoringu.
-(Po podłączeniu w opcjach należy włączyć profilowanie.)
+Zamiast bazy MongoDB, można przygotować przykłady lub wtyczki lub agregacje
+dla bazy [Elasticsearch](http://www.elasticsearch.org/overview/).
+Na początek należy się przyjrzeć narzędziu
+[Kibana](http://www.elasticsearch.org/overview/kibana), następnie poczytać
+o [wtyczkach](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-plugins.html)
+a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-aggregations.html).
+
+**Uwaga:* Większe zadania, można przygotować w zespole 2–3 osobowym.
 
 1. Acewicz-Hepfner, Patryk
 1. Banecka, Kamila
