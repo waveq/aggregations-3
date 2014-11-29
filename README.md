@@ -38,7 +38,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kłeczek, Piotr
 1. Koźmiński, Marcin
 1. Makulec, Krzysztof
-1. Sałata, Jakub
+1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md).[GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md)
 1. Soliński, Damian
 1. Szklarska, Milena
 1. Szymanek, Tomasz
