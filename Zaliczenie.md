@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQL1/blob/master/zadanie1.md). [GetGlue](https://github.com/Misiek92/NoSQL1/blob/master/zadanie2.md)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md). [GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql/blob/master/Lab1.md). [Medicare](https://github.com/KLamkiewicz/NoSql/blob/master/Lab2.md)
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [GetGlue](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
@@ -54,6 +53,8 @@ w zadaniu [2X,Y]:
 1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md). [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md) [1MG 1AP]
 1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue Sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md) [1MG 2AP]
 1. [Kąkol, Jan](https://bitbucket.org/Jankkol/nosqlzad1). [WordpressLikes](https://bitbucket.org/Jankkol/nosqlzad2) [1WT 2AP]
+1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQL1/blob/master/zadanie1.md). [GetGlue](https://github.com/Misiek92/NoSQL1/blob/master/zadanie2.md) [1M,WT 2AP];
+   :+1: za [mongodb-geojson-normalize](https://www.npmjs.org/package/mongodb-geojson-normalize)
 
 
 ### C
