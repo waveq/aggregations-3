@@ -37,8 +37,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kamiński, Jakub
 1. Kłeczek, Piotr
 1. Koźmiński, Marcin
-1. [Makulec, Krzysztof](https://bitbucket.org/gokus/nosql/).[GetGlue](https://bitbucket.org/gokus/nosql/src/12c8f371c874879d92f1f242807735f0d3347215/zadanie_2.md)
-1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md).[GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md)
 1. Soliński, Damian
 1. Szklarska, Milena
 1. Szymanek, Tomasz

@@ -1,5 +1,13 @@
 ### Lista
 
+Legenda: [1A,B; 2C,D,E], gdzie literki to usterki w:
+
+* M – niekompletne opisy, błędy tip w README.md
+* WT – usterki w opisach WiredTiger
+* …
+
+----
+
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [NYCrimes](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md)
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/nosql_lab). [AllFlights](https://github.com/mbednarczyk/nosql_lab/tree/master/ex2)
 1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/Zadanie2.md)
@@ -20,14 +28,16 @@
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md). [GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql/blob/master/Lab1.md). [Medicare](https://github.com/KLamkiewicz/NoSql/blob/master/Lab2.md)
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [GetGlue](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
-1. [Latoszewski, Krzysztof] (https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
+1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations)
+1. [Makulec, Krzysztof](https://bitbucket.org/gokus/nosql/). [GetGlue](https://bitbucket.org/gokus/nosql/src/12c8f371c874879d92f1f242807735f0d3347215/zadanie_2.md)
 1. [Miotk, Mateusz](https://github.com/miotek32/NoSQL). [Sentencje angielskie](https://github.com/miotek32/NoSQL---Exercise2)
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql). [Chicago Crimes](https://github.com/MacMisDev/nosql)
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3). [Crimes](https://github.com/YoungCoder/agregacje3)
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md). [GetGlue](https://github.com/mossowski/NoSQL-lab/blob/master/zad2.md)
 1. [Piotrkowski, Łukasz](https://bitbucket.org/lpiotrkowski/mongo). [Mongo](https://bitbucket.org/lpiotrkowski/mongo/src/326b0f3f1458769947469054b30384e10a279e98/zadanie2/?at=master)
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md)
+1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md). [GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md)
 1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL). [Loty](https://github.com/henio180/NoSQL2)
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql). [Flights](https://github.com/Michaldwadwa/nosql2)
