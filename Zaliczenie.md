@@ -8,9 +8,10 @@ Legenda: [1A,B], gdzie literki to usterki w zadaniu 1:
 
 w zadaniu [2C,D,E]:
 
-* AP – usterki w kodzie [gregacji](Aggregations_2.6.md) lub brak ilustracji
+* AP – usterki w kodzie [agregacji](Aggregations_2.6.md)
+  lub brak/za mało ilustracji/tabelek
 
-[2-] – niedziałąjacy link do zadania 2
+[2-] – niedziałający link do zadania 2
 
 
 ----
