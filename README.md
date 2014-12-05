@@ -42,6 +42,10 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Szymanek, Tomasz
 1. Zdunek, Kamil
 
+----
+
+1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo) [1G 2A]
+
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
 

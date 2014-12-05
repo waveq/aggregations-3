@@ -1,19 +1,20 @@
 ### Lista
 
-Legenda: [1A,B; 2C,D,E], gdzie literki to usterki w:
+Legenda: [1A,B], gdzie literki to usterki w zadaniu 1:
 
-* M – niekompletne opisy, błędy tip w README.md
+* M – niekompletne opisy, błędy, usterki w README.md
 * WT – usterki w opisach WiredTiger
-* …
+* G – brak lub usterki w części z GeoJSON
+
+w zadaniu [2C,D,E]:
+
+* AP – usterki w kodzie [gregacji](Aggregations_2.6.md) lub brak ilustracji
+
+[2-] – niedziałąjacy link do zadania 2
+
 
 ----
 
-1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [NYCrimes](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md)
-1. [Bednarczyk, Marek](https://github.com/mbednarczyk/nosql_lab). [AllFlights](https://github.com/mbednarczyk/nosql_lab/tree/master/ex2)
-1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/Zadanie2.md)
-1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue)
-1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs). [Loty](https://github.com/jcimoch/noSQL-labs#zad-2)
-1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo)
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSQL-aggregation). [WordList](https://github.com/mateuszdargacz/nosql_aggregation_2)
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md)
 1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md)
@@ -46,14 +47,19 @@ Legenda: [1A,B; 2C,D,E], gdzie literki to usterki w:
 1. [Zakrzewski, Patryk](https://github.com/zakrzes/Technologie-NoSQL). [IMDB](https://github.com/zakrzes/Technologie-NoSQL/blob/master/Zadanie%202.md)
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md)
 
+
 ### A
 
-TODO
+1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [NYCrimes](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md) [2AP]
+1. [Bednarczyk, Marek](https://github.com/mbednarczyk/nosql_lab). [AllFlights](https://github.com/mbednarczyk/nosql_lab/tree/master/ex2) [2AP]
+
 
 ### B
 
-TODO
+1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs). [Loty](https://github.com/jcimoch/noSQL-labs#zad-2) [1G 2A]
+
 
 ### C
 
-TODO
+1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/Zadanie2.md) [1G, 2-]
+1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue) [1M,G 2A]
