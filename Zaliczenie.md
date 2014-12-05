@@ -16,8 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Kąkol, Jan](https://bitbucket.org/Jankkol/nosqlzad1). [WordpressLikes](https://bitbucket.org/Jankkol/nosqlzad2)
-1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master)
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
 1. [Kulas, Piotr](https://github.com/pkulas/nosql/blob/master/zadanie1.md). [The Internet Movie Database](https://github.com/pkulas/nosql/blob/master/zadanie2.md)
 1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQL1/blob/master/zadanie1.md). [GetGlue](https://github.com/Misiek92/NoSQL1/blob/master/zadanie2.md)
@@ -57,6 +55,7 @@ w zadaniu [2X,Y]:
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md) [1M]
 1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md). [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md) [1MG 1AP]
 1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue Sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md) [1MG 2AP]
+1. [Kąkol, Jan](https://bitbucket.org/Jankkol/nosqlzad1). [WordpressLikes](https://bitbucket.org/Jankkol/nosqlzad2) [1WT 2AP]
 
 
 ### C
@@ -64,3 +63,4 @@ w zadaniu [2X,Y]:
 1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/Zadanie2.md) [1G, 2-]
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue) [1M,G 2AP]
 1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md) [1M,G 2AP]
+1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master) [1MG 2AP]
