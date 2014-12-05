@@ -15,9 +15,6 @@ w zadaniu [2C,D,E]:
 
 ----
 
-1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md)
-1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md). [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md)
-1. [Józwiak, Roman](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise1.md). [Majestic](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise2.md)
 1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue Sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md)
 1. [Kąkol, Jan](https://bitbucket.org/Jankkol/nosqlzad1). [WordpressLikes](https://bitbucket.org/Jankkol/nosqlzad2)
 1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master)
@@ -50,6 +47,7 @@ w zadaniu [2C,D,E]:
 
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [NYCrimes](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md) [2AP]
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/nosql_lab). [AllFlights](https://github.com/mbednarczyk/nosql_lab/tree/master/ex2) [2AP]
+1. [Józwiak, Roman](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise1.md). [Majestic](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise2.md)
 
 
 ### B
@@ -57,9 +55,11 @@ w zadaniu [2C,D,E]:
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs). [Loty](https://github.com/jcimoch/noSQL-labs#zad-2) [1G 2A]
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSQL-aggregation). [WordList](https://github.com/mateuszdargacz/nosql_aggregation_2) [1M,G 2A]
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md) [1M]
+1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md). [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md) [1MG 1A]
 
 
 ### C
 
 1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/Zadanie2.md) [1G, 2-]
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue) [1M,G 2A]
+1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md) [1M,G 2A]
