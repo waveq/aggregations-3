@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [GetGlue](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
 1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations)
 1. [Makulec, Krzysztof](https://bitbucket.org/gokus/nosql/). [GetGlue](https://bitbucket.org/gokus/nosql/src/12c8f371c874879d92f1f242807735f0d3347215/zadanie_2.md)
