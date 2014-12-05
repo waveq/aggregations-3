@@ -16,8 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
-1. [Kulas, Piotr](https://github.com/pkulas/nosql/blob/master/zadanie1.md). [The Internet Movie Database](https://github.com/pkulas/nosql/blob/master/zadanie2.md)
 1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQL1/blob/master/zadanie1.md). [GetGlue](https://github.com/Misiek92/NoSQL1/blob/master/zadanie2.md)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md). [GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql/blob/master/Lab1.md). [Medicare](https://github.com/KLamkiewicz/NoSql/blob/master/Lab2.md)
@@ -64,3 +62,4 @@ w zadaniu [2X,Y]:
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue) [1M,G 2AP]
 1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md) [1M,G 2AP]
 1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master) [1MG 2AP]
+1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2) [1MG 2AP]
