@@ -22,14 +22,13 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
+### Niezaliczone laboratorium
+
 1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql)
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql)
 1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN)
 1. [Banecka, Kamila](https://bitbucket.org/KamBan/nosql)
-
-### Niezaliczone laboratorium
-
 1. Bieliński, Marcin
 1. Gałka, Łukasz
 1. Grycko, Marcin
@@ -46,6 +45,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo) [1G 2A]
 1. [Kulas, Piotr](https://github.com/pkulas/nosql/blob/master/zadanie1.md). [The Internet Movie Database](https://github.com/pkulas/nosql/blob/master/zadanie2.md) [1M,WT,G 2AP]
+1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md). [GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md) [1M,G 2AP]
 
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
