@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue Sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md)
 1. [Kąkol, Jan](https://bitbucket.org/Jankkol/nosqlzad1). [WordpressLikes](https://bitbucket.org/Jankkol/nosqlzad2)
 1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master)
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2)
@@ -57,6 +56,7 @@ w zadaniu [2X,Y]:
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSQL-aggregation). [WordList](https://github.com/mateuszdargacz/nosql_aggregation_2) [1M,G 2AP]
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md) [1M]
 1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad1/rozwiazanie.md). [GetGlue IMDB](https://github.com/cinkonaap/nosql/blob/master/zad2/rozwiazanie.md) [1MG 1AP]
+1. [Karolczak, Jakub](https://github.com/Taureli/NoSQL1/blob/master/Zadanie1/README.md). [GetGlue Sample](https://github.com/Taureli/NoSQL1/blob/master/Zadanie2/README.md) [1MG 2AP]
 
 
 ### C
