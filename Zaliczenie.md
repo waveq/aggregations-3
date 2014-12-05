@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql/blob/master/Lab1.md). [Medicare](https://github.com/KLamkiewicz/NoSql/blob/master/Lab2.md)
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [GetGlue](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md)
 1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations)
@@ -63,3 +62,4 @@ w zadaniu [2X,Y]:
 1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md) [1M,G 2AP]
 1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master) [1MG 2AP]
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2) [1MG 2AP]
+1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql/blob/master/Lab1.md). [Medicare](https://github.com/KLamkiewicz/NoSql/blob/master/Lab2.md) [1M,WT,G 2AP]
