@@ -56,7 +56,7 @@ w zadaniu [2X,Y]:
 
 ### C
 
-1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/Zadanie2.md) [1G, 2-]
+1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/blob/master/Zadanie2.md) [1G, 2-]
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue) [1M,G 2AP]
 1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md) [1M,G 2AP]
 1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master) [1MG 2AP]
