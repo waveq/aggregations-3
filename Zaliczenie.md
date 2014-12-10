@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL). [Loty](https://github.com/henio180/NoSQL2)
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql). [Flights](https://github.com/Michaldwadwa/nosql2)
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql).[GetGlue](https://github.com/psynowczyk/tnosql2)
@@ -35,6 +34,8 @@ w zadaniu [2X,Y]:
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3). [Crimes](https://github.com/YoungCoder/agregacje3) [1M, 2AP];
    :car: :police_car:
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md). [GetGlue](https://github.com/mossowski/NoSQL-lab/blob/master/zad2.md) [1M]
+1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
+   Londyn, Big Ben… :clock4: power :factory:
 
 
 ### B
