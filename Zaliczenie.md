@@ -37,7 +37,7 @@ w zadaniu [2X,Y]:
 1. [Józwiak, Roman](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise1.md). [Majestic](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise2.md)
 1. [Miotk, Mateusz](https://github.com/miotek32/NoSQL). [Sentencje angielskie](https://github.com/miotek32/NoSQL---Exercise2) \[w zadaniu 2 dodać link do bazy danych ze strony kaggle.com]
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3). [Crimes](https://github.com/YoungCoder/agregacje3) [1M, 2AP];
-   :+police_car: :+1:
+   :car: :police_car: :+1:
 
 
 ### B
