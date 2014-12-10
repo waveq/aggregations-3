@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md). [GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md)
 1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL). [Loty](https://github.com/henio180/NoSQL2)
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql). [Flights](https://github.com/Michaldwadwa/nosql2)
@@ -51,6 +50,7 @@ w zadaniu [2X,Y]:
 1. [Makulec, Krzysztof](https://bitbucket.org/gokus/nosql/). [GetGlue](https://bitbucket.org/gokus/nosql/src/12c8f371c874879d92f1f242807735f0d3347215/zadanie_2.md) [1WT];
    :+1: [Współrzędne geograficzne miejscowości w Polsce](http://astrowiki.eu/index.php?title=Wsp%C3%B3%C5%82rz%C4%99dne_geograficzne_miejscowo%C5%9Bci_w_Polsce)
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql). [Chicago Crimes](https://github.com/MacMisDev/nosql) [1M,WT, 2AP] \[w zadaniu 1 dodać link do bazy z mapą świata…]
+1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md). [GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md) [1M,WT 2AP] ; ważniejsze miasta Polski?
 
 
 ### C
