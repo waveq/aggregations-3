@@ -16,8 +16,7 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql). [Flights](https://github.com/Michaldwadwa/nosql2)
-1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql).[GetGlue](https://github.com/psynowczyk/tnosql2)
+1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql). [GetGlue](https://github.com/psynowczyk/tnosql2)
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
 1. [Zakrzewski, Patryk](https://github.com/zakrzes/Technologie-NoSQL). [IMDB](https://github.com/zakrzes/Technologie-NoSQL/blob/master/Zadanie%202.md)
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md)
@@ -66,3 +65,4 @@ w zadaniu [2X,Y]:
 1. [Piotrkowski, Łukasz](https://bitbucket.org/lpiotrkowski/mongo). [Mongo](https://bitbucket.org/lpiotrkowski/mongo/src/326b0f3f1458769947469054b30384e10a279e98/zadanie2/?at=master)
    [1M,WT,G 2-]; \[w zadaniu 1 dodać link skąd pobrano dane do PLUSLIGA, zadanie 2 – tylko kod]
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md) [1M,WT 2AP]
+1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql). [Flights](https://github.com/Michaldwadwa/nosql2) [1M,WT, 2AP] :love_letter: to Mongo
