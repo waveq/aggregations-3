@@ -48,7 +48,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [GetGlue](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md) \[1M,WT,G 2AP]
   (niedziałające linki)
 
-====
+----
 
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo) [1WT,G 2AP]
 1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex1.md). [GetGlue](https://github.com/szykom/nosql/blob/master/ex2.md) [1M,WT,G 2AP]
