@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
 1. [Zakrzewski, Patryk](https://github.com/zakrzes/Technologie-NoSQL). [IMDB](https://github.com/zakrzes/Technologie-NoSQL/blob/master/Zadanie%202.md)
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md)
 1. [Zduniak, Daniel](https://github.com/dzduniak/NoSQL)
