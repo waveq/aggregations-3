@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md)
 1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md). [GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md)
 1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL). [Loty](https://github.com/henio180/NoSQL2)
@@ -65,3 +64,4 @@ w zadaniu [2X,Y]:
 1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md) [1M,WT,G 2AP]
 1. [Piotrkowski, Łukasz](https://bitbucket.org/lpiotrkowski/mongo). [Mongo](https://bitbucket.org/lpiotrkowski/mongo/src/326b0f3f1458769947469054b30384e10a279e98/zadanie2/?at=master)
    [1M,WT,G 2-]; \[w zadaniu 1 dodać link skąd pobrano dane do PLUSLIGA, zadanie 2 – tylko kod]
+1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md) [1M,WT 2AP]
