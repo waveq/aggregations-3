@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql). [GetGlue](https://github.com/psynowczyk/tnosql2)
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
 1. [Zakrzewski, Patryk](https://github.com/zakrzes/Technologie-NoSQL). [IMDB](https://github.com/zakrzes/Technologie-NoSQL/blob/master/Zadanie%202.md)
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md)
@@ -51,6 +50,7 @@ w zadaniu [2X,Y]:
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql). [Chicago Crimes](https://github.com/MacMisDev/nosql) [1M,WT, 2AP] \[w zadaniu 1 dodać link do bazy z mapą świata…]
 1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md). [GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md) [1M,WT 2AP] ; ważniejsze miasta Polski?
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL). [Loty](https://github.com/henio180/NoSQL2) [1M,WT 2AP] ; dlaczego user time to prawie zero? :airplane:
+1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql). [GetGlue](https://github.com/psynowczyk/tnosql2) [1M 2AP]
 
 
 ### C
