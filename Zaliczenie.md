@@ -16,7 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md). [GetGlue](https://github.com/mossowski/NoSQL-lab/blob/master/zad2.md)
 1. [Piotrkowski, Łukasz](https://bitbucket.org/lpiotrkowski/mongo). [Mongo](https://bitbucket.org/lpiotrkowski/mongo/src/326b0f3f1458769947469054b30384e10a279e98/zadanie2/?at=master)
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md)
 1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md). [GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md)
@@ -37,7 +36,8 @@ w zadaniu [2X,Y]:
 1. [Józwiak, Roman](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise1.md). [Majestic](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise2.md)
 1. [Miotk, Mateusz](https://github.com/miotek32/NoSQL). [Sentencje angielskie](https://github.com/miotek32/NoSQL---Exercise2) \[w zadaniu 2 dodać link do bazy danych ze strony kaggle.com]
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3). [Crimes](https://github.com/YoungCoder/agregacje3) [1M, 2AP];
-   :car: :police_car: :+1:
+   :car: :police_car:
+1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-lab/blob/master/zad1.md). [GetGlue](https://github.com/mossowski/NoSQL-lab/blob/master/zad2.md) [1M]
 
 
 ### B
