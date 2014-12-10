@@ -14,12 +14,6 @@ w zadaniu [2X,Y]:
 [2-] – niedziałający link do zadania 2
 
 
-----
-
-1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md)
-1. [Zduniak, Daniel](https://github.com/dzduniak/NoSQL)
-
-
 ### A
 
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [NYCrimes](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md) [2AP]
@@ -51,6 +45,7 @@ w zadaniu [2X,Y]:
 1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md). [GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md) [1M,WT 2AP] ; ważniejsze miasta Polski?
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQL). [Loty](https://github.com/henio180/NoSQL2) [1M,WT 2AP] ; dlaczego user time to prawie zero? :airplane:
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/tnosql). [GetGlue](https://github.com/psynowczyk/tnosql2) [1M 2AP]
+1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md) [1M,G 2AP]
 
 
 ### C

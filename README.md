@@ -22,12 +22,13 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
+
 ### Niezaliczone laboratorium
 
 1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql)
+1. [Banecka, Kamila](https://bitbucket.org/KamBan/nosql)
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN)
-1. [Banecka, Kamila](https://bitbucket.org/KamBan/nosql)
 1. Bieliński, Marcin
 1. Gałka, Łukasz
 1. Grycko, Marcin
@@ -53,6 +54,8 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex1.md). [GetGlue](https://github.com/szykom/nosql/blob/master/ex2.md) [1M,WT,G 2AP]
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations) [1M,WT 2AP]
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md) [1M,WT,G, 2-] mapki, zadanie 2 – dead links
+1. [Zduniak, Daniel](https://github.com/dzduniak/NoSQL) [1M,G 2-]
+
 
 
 
