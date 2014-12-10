@@ -16,8 +16,6 @@ w zadaniu [2X,Y]:
 
 ----
 
-1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md)
-1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations)
 1. [Makulec, Krzysztof](https://bitbucket.org/gokus/nosql/). [GetGlue](https://bitbucket.org/gokus/nosql/src/12c8f371c874879d92f1f242807735f0d3347215/zadanie_2.md)
 1. [Miotk, Mateusz](https://github.com/miotek32/NoSQL). [Sentencje angielskie](https://github.com/miotek32/NoSQL---Exercise2)
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql). [Chicago Crimes](https://github.com/MacMisDev/nosql)
@@ -33,7 +31,7 @@ w zadaniu [2X,Y]:
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md)
 1. [Zakrzewski, Patryk](https://github.com/zakrzes/Technologie-NoSQL). [IMDB](https://github.com/zakrzes/Technologie-NoSQL/blob/master/Zadanie%202.md)
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md)
-1. [Zduniak, Daniel](https://github.com/dzduniak/NoSQL) 
+1. [Zduniak, Daniel](https://github.com/dzduniak/NoSQL)
 
 
 ### A
@@ -63,3 +61,4 @@ w zadaniu [2X,Y]:
 1. [Kożuch, Adam](https://bitbucket.org/AdamKozuch/zadanie1/src). [Individual household electric power consumption](https://bitbucket.org/AdamKozuch/zadanie2/src/ef3eec83df456b7c271a3b36631e3eafc3b78f2c?at=master) [1MG 2AP]
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQL). [Loty](https://github.com/Maciekek/noSQL/tree/master/zad2) [1MG 2AP]
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/NoSql/blob/master/Lab1.md). [Medicare](https://github.com/KLamkiewicz/NoSql/blob/master/Lab2.md) [1M,WT,G 2AP]
+1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_1.md). [GetGlue](https://github.com/klatoszewski/nosql/blob/master/Zadanie_2.md) [1M,WT,G 2AP]
