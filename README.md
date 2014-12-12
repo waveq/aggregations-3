@@ -43,8 +43,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 1. [Kulas, Piotr](https://github.com/pkulas/nosql/blob/master/zadanie1.md). [The Internet Movie Database](https://github.com/pkulas/nosql/blob/master/zadanie2.md) [1M,WT,G 2AP]
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md). [GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md) [1M,G 2AP]
-1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie1.md). [GetGlue](https://github.com/alatoszewski/nosql-mongo/blob/master/zadanie2.md) \[1M,WT,G 2AP]
-  (niedziałające linki)
 
 ----
 
@@ -53,8 +51,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations) [1M,WT 2AP]
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/zad2.md) [1M,WT,G, 2-] mapki, zadanie 2 – dead links
 1. [Zduniak, Daniel](https://github.com/dzduniak/NoSQL) [1M,G 2-]
-
-
 
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
