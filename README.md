@@ -42,7 +42,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 ----
 
 1. [Kulas, Piotr](https://github.com/pkulas/nosql/blob/master/zadanie1.md). [The Internet Movie Database](https://github.com/pkulas/nosql/blob/master/zadanie2.md) [1M,WT,G 2AP]
-1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/fornosqleihp/blob/master/README.md). [GetGlue](https://github.com/Kalumniatoris/fornosqleihp/blob/master/Zadanie2/Zadanie2.md) [1M,G 2AP]
 
 ----
 
