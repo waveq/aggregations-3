@@ -31,6 +31,7 @@ w zadaniu [2X,Y]:
 
 ### B
 
+1. [Banecka, Kamila](https://bitbucket.org/KamBan/nosql). Kody pocztowe
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-labs). [Loty](https://github.com/jcimoch/noSQL-labs#zad-2) [1G 2AP]
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSQL-aggregation). [WordList](https://github.com/mateuszdargacz/nosql_aggregation_2) [1M,G 2AP]
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie1.md). [GetGlue](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie2.md) [1M]
@@ -50,6 +51,7 @@ w zadaniu [2X,Y]:
 
 ### C
 
+1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql). Kanada
 1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/blob/master/Zadanie2.md) [1G, 2-]
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/TrainMongoDB). [GetGlue](https://github.com/maciekBorkowski/GetGlue) [1M,G 2AP]
 1. [Ekiert, Łukasz](https://github.com/lekiert/nosql/blob/master/zad1.md). [GetGlue IMDB](https://github.com/lekiert/nosql/blob/master/zad2.md) [1M,G 2AP]

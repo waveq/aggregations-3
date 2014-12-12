@@ -25,8 +25,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ### Niezaliczone laboratorium
 
-1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql)
-1. [Banecka, Kamila](https://bitbucket.org/KamBan/nosql)
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN)
 1. Bieliński, Marcin
