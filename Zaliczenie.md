@@ -64,3 +64,9 @@ w zadaniu [2X,Y]:
    [1M,WT,G 2-]; \[w zadaniu 1 dodać link skąd pobrano dane do PLUSLIGA, zadanie 2 – tylko kod]
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md) [1M,WT 2AP]
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql). [Flights](https://github.com/Michaldwadwa/nosql2) [1M,WT, 2AP] :love_letter: to Mongo
+
+
+### 2013/14
+
+1. Kłeczek, Piotr
+1. Koźmiński, Marcin

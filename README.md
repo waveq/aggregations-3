@@ -32,8 +32,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Grycko, Marcin
 1. Janowski, Arkadiusz
 1. Kamiński, Jakub
-1. Kłeczek, Piotr - zaliczone rok temu
-1. Koźmiński, Marcin - zaliczone rok temu
 1. Soliński, Damian
 1. Szklarska, Milena
 1. Szymanek, Tomasz
