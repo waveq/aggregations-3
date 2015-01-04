@@ -101,7 +101,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Latoszewski, Krzysztof
 1. Ławicki, Patryk
 1. Makulec, Krzysztof
-1. Miotk, Mateusz
+1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB)
 1. Miś, Maciej
 1. Nowak, Wojciech
 1. Nowicki, Jakub
