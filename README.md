@@ -96,7 +96,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Kulas, Piotr
 1. Kuźnik, Mateusz
 1. Kwiatkowski, Dominik
-1. Lamkiewicz, Krzysztof
+1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/WikiNoSQL.git)
 1. Latoszewski, Adam
 1. Latoszewski, Krzysztof
 1. Ławicki, Patryk
