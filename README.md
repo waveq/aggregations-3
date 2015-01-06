@@ -75,7 +75,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Bławat, Adam
 1. Bonczkowska, Magdalena
 1. Borkowski, Maciej
-1. Cimoch, Jarosław
+1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-Egzamin)
 1. Czechowicz, Kacper
 1. Dargacz, Mateusz
 1. Drozdowski, Adrian
