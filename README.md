@@ -94,7 +94,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Kożuch, Adam
 1. Kucharski, Maciej
 1. Kulas, Piotr
-1. Kuźnik, Mateusz
+1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQLexam)
 1. Kwiatkowski, Dominik
 1. Lamkiewicz, Krzysztof
 1. Latoszewski, Adam
