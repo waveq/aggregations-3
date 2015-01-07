@@ -102,7 +102,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Ławicki, Patryk](https://true-or-false@bitbucket.org/true-or-false/mongomapreduce.git)
 1. Makulec, Krzysztof
 1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB)
-1. Miś, Maciej
+1. [Miś, Maciej](https://github.com/MacMisDev/nosql_egzamin)
 1. Nowak, Wojciech
 1. Nowicki, Jakub
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-egz)
