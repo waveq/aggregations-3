@@ -70,7 +70,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Acewicz-Hepfner, Patryk
 1. Banecka, Kamila
 1. Banecki, Daniel
-1. Bednarczyk, Marek
+1. [Bednarczyk, Marek](https://github.com/mbednarczyk/NoSQL_Exam)
 1. Bieliński, Marcin
 1. Bławat, Adam
 1. Bonczkowska, Magdalena
