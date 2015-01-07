@@ -107,7 +107,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Nowicki, Jakub
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-egz)
 1. Piotrkowski, Łukasz
-1. Rękawek, Szymon
+1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad3.md)
 1. Sałata, Jakub
 1. Sarzyńska, Magdalena
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQLEgzamin)
