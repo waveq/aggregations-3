@@ -99,7 +99,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/WikiNoSQL.git)
 1. Latoszewski, Adam
 1. Latoszewski, Krzysztof
-1. Ławicki, Patryk
+1. [Ławicki, Patryk](https://true-or-false@bitbucket.org/true-or-false/mongomapreduce.git)
 1. Makulec, Krzysztof
 1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB)
 1. Miś, Maciej
