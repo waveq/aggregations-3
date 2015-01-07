@@ -86,7 +86,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Janowski, Arkadiusz
 1. Józwiak, Roman
 1. Kamiński, Jakub
-1. Karolczak, Jakub
+1. [Karolczak, Jakub](https://github.com/Taureli/MongoDB-MapReduce)
 1. Kąkol, Jan
 1. Kłeczek, Piotr
 1. Komorowski, Szymon
