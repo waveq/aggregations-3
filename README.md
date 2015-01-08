@@ -111,7 +111,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Sałata, Jakub
 1. Sarzyńska, Magdalena
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQLEgzamin)
-1. Skałkowski, Michał
+1. [Skałkowski, Michał](https://github.com/Michaldwadwa/egzaminNoSQL)
 1. Soliński, Damian
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/Tnosql3)
 1. Szklarska, Milena
