@@ -84,7 +84,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Grycko, Marcin
 1. Horoszko, Marcin
 1. Janowski, Arkadiusz
-1. Józwiak, Roman
+1. [Józwiak, Roman](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise3.md)
 1. Kamiński, Jakub
 1. [Karolczak, Jakub](https://github.com/Taureli/MongoDB-MapReduce)
 1. [Kąkol, Jan] (https://bitbucket.org/Jankkol/nosqlegz/overview)
