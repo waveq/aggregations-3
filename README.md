@@ -118,7 +118,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Szymanek, Tomasz
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin)
 1. Zakrzewski, Patryk
-1. Zalewski, Marcin
+1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie3.md)
 1. Zdunek, Kamil
 
 
