@@ -89,7 +89,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Karolczak, Jakub](https://github.com/Taureli/MongoDB-MapReduce)
 1. [Kąkol, Jan] (https://bitbucket.org/Jankkol/nosqlegz/overview)
 1. Kłeczek, Piotr
-1. Komorowski, Szymon
+1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex3.md)
 1. Koźmiński, Marcin
 1. Kożuch, Adam
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQLEgz)
