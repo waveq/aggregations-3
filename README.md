@@ -67,7 +67,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 
 *Uwaga:* Większe zadania, można przygotować w zespole 2–3 osobowym.
 
-1. Acewicz-Hepfner, Patryk
+1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad3.md)
 1. Banecka, Kamila
 1. Banecki, Daniel
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/NoSQL_Exam)
