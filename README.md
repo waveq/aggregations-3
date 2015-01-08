@@ -113,7 +113,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQLEgzamin)
 1. Skałkowski, Michał
 1. Soliński, Damian
-1. Synowczyk, Piotr
+1. [Synowczyk, Piotr](https://github.com/psynowczyk/Tnosql3)
 1. Szklarska, Milena
 1. Szymanek, Tomasz
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin)
