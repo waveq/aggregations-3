@@ -77,7 +77,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/ReduceMapMongo)
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-Egzamin)
 1. [Czechowicz, Kacper](https://github.com/kipperek/mapReduce)
-1. Dargacz, Mateusz
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSql_reduce_3)
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie3.md)
 1. Ekiert, Łukasz
 1. Gałka, Łukasz
